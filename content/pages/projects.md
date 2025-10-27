@@ -15,9 +15,9 @@ A Hypothetical Indy race car manufacturer seeks bids for a new wing design for t
 
 ### 2005 Final Project Presentation Videos
 
-Student Presentations and Guest Lecture by Dr. Jaroslaw Sobieski, NASA ({{% resource_link "6d3420bc-8959-4210-be57-af82014efcfb" "MP4 - 408MB" %}})
+Student Presentations and Guest Lecture by Dr. Jaroslaw Sobieski, NASA ([MP4 - 408MB](https://archive.org/download/MIT16.810IAP05/ocw-16.810-27jan2005-tp2-220k.mp4))
 
-Guest Lecture by Dr. David Chang, GM ({{% resource_link "ca5c8a29-cbfd-4cbb-a82c-4ddf98d43ac2" "MP4 - 120MB" %}})
+Guest Lecture by Dr. David Chang, GM ([MP4 - 120MB](https://archive.org/download/MIT16.810IAP05/ocw-16.810-27jan2005-tp1_2-220k.mp4))
 
 ### 2005 Project Files
 
